@@ -176,10 +176,6 @@ public class MedievalLevelBuilder {
 
 
 
-
-
-
-
 /*
  add orc
  //        if(mc>=allMonsterCount){
