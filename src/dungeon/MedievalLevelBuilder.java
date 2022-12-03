@@ -137,7 +137,6 @@ public class MedievalLevelBuilder {
         }
         return this;
     }
-
     //Similar to adding monsters, adding treasures should raise an IllegalStateException if
     // the target number of treasures has already been reach and an
     // IllegalArgumentException if the target room has not yet been created.
